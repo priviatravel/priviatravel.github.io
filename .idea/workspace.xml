@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40eac0ce-4f83-4bb0-8506-f00257d6ef45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/priviatravel.github.io.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mail/mail1.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail/mail12.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail/mail13.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail/mail15_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail15_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail/mail16_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail16_1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mail/mail2.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail/mail3.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail/mail6.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail6.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2qMuocC4t3h4hO9a0VH1RDSZgrA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaScript Debug.mail1.html.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -45,6 +50,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="mail1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/priviatravel.github.io/mail/mail1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.mail1.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,7 +76,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734484940940</updated>
-      <workItem from="1734484941999" duration="5450000" />
+      <workItem from="1734484941999" duration="6583000" />
+      <workItem from="1734572695710" duration="7642000" />
     </task>
     <servers />
   </component>
