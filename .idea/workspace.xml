@@ -7,13 +7,11 @@
     <list default="true" id="40eac0ce-4f83-4bb0-8506-f00257d6ef45" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mail/mail1.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail/mail13.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail13.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mail/mail15_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail15_1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mail/mail16_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail16_1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mail/mail17_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail17_1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mail/mail2.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mail/mail3.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mail/mail6_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/mail/mail6_1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +79,9 @@
       <workItem from="1734593885320" duration="9782000" />
       <workItem from="1734658519515" duration="599000" />
       <workItem from="1734910516647" duration="1475000" />
-      <workItem from="1735178466297" duration="1257000" />
+      <workItem from="1735178466297" duration="1340000" />
+      <workItem from="1735189782035" duration="1409000" />
+      <workItem from="1735191431758" duration="1238000" />
     </task>
     <servers />
   </component>
